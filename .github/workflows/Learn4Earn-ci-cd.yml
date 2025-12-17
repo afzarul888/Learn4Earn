@@ -3,7 +3,7 @@ name: Learn4Earn CI/CD
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
